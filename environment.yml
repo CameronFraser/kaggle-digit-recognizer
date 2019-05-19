@@ -1,0 +1,12 @@
+name: kaggle-digit-recognizer
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - matplotlib
+  - seaborn
+  - kaggle
+  - pip
+  - pip:
+    - tensorflow==2.0.0-alpha0
