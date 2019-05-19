@@ -9,6 +9,7 @@ dependencies:
   - matplotlib
   - seaborn
   - kaggle
+  - toolz
   - pip
   - pip:
     - tensorflow==2.0.0-alpha0
