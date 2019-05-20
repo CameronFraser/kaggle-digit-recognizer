@@ -2,3 +2,5 @@ dataset/
 .ipynb_checkpoints
 digit_recognizer.h5
 __pycache__
+.vscode
+submission.csv
